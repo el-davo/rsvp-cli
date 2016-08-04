@@ -3,6 +3,10 @@
   "version": "0.0.1",
   "description": "Automatic responder to command line prompts",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/el-davo/rscp-cli.git"
+  },
   "keywords": [
     "cli",
     "prompt",
