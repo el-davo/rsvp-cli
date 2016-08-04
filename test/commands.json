@@ -1,0 +1,17 @@
+{
+  "cmd": "node test/prompt",
+  "responses": [
+    {
+      "regex": "response 1",
+      "response": "yes"
+    },
+    {
+      "regex": "response 2",
+      "response": "no"
+    },
+    {
+      "regex": "response 3",
+      "response": "maybe"
+    }
+  ]
+}
