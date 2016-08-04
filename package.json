@@ -1,0 +1,21 @@
+{
+  "name": "rsvp-cli",
+  "version": "0.0.1",
+  "description": "Automatic responder to command line prompts",
+  "main": "index.js",
+  "keywords": [
+    "cli",
+    "prompt",
+    "respond"
+  ],
+  "dependencies": {},
+  "devDependencies": {
+    "inquirer": "^1.1.2"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "author": "el-davo",
+  "license": "MIT",
+  "preferGlobal": true
+}
