@@ -1,11 +1,11 @@
 {
   "name": "rsvp-cli",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Automatic responder to command line prompts",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/el-davo/rscp-cli.git"
+    "url": "https://github.com/el-davo/rsvp-cli.git"
   },
   "keywords": [
     "cli",
