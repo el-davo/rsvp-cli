@@ -1,6 +1,6 @@
 {
   "name": "rsvp-cli",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Automatic responder to command line prompts",
   "main": "index.js",
   "repository": {
